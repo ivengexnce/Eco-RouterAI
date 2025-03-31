@@ -37,26 +37,3 @@ Run the application:
 ```bash
 python app/main.py
 ```
-
-## Directory Structure
-```
-EcoRouteAI
-├── app
-│   ├── main.py
-│   ├── routes
-│   ├── services
-│   ├── models
-│   └── utils
-├── tests
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
-## Future Enhancements
-- **Social Media Integration**: Use event data from social media to improve traffic predictions.
-- **Air Quality Monitoring**: Incorporate real-time air quality data for route scoring.
-- **User Accounts**: Enable personalized settings and route history tracking.
-
-## License
-This project is licensed under the MIT License.
